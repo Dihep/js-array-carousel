@@ -11,5 +11,9 @@ for (let i = 0; i < immagini.length; i++) {
         indiceImg = i;
         img.classList.remove("active");
     };
-}
+};
 console.log(immagini)
+
+//Selezione immagine seguente
+indiceImg++;
+immagini[indiceImg].classList.add("active");
