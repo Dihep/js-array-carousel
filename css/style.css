@@ -1,0 +1,38 @@
+/* Universal styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Dark-mode */
+header, main, footer {
+    background-color: black;
+}
+
+/* Container style */
+#container {
+    width: 100%;
+    padding: 2rem 10%;
+    border: 1px solid gray;
+}
+
+/* Images styles */
+img {
+    height: 600px;
+    display: none;
+}
+
+/* Buttons styles */
+#btnPrevious{
+    margin: 1rem 2rem 0 auto;
+}
+
+#btnNext {
+    margin: 1rem auto 0 2;
+}
+
+/* Active Image styles */
+.active {
+    display: unset;
+}
