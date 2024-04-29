@@ -12,7 +12,7 @@ header, main, footer {
 
 /* Container style */
 #container {
-    width: 100%;
+    width: 60%;
     padding: 2rem 10%;
     border: 1px solid gray;
 }
@@ -20,6 +20,7 @@ header, main, footer {
 /* Images styles */
 img {
     height: 600px;
+    object-fit: contain;
     display: none;
 }
 

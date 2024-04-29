@@ -14,7 +14,6 @@ Solo una sarà visibile grazie a una sua classe, avremo così la struttura base.
 
 MILESTONE 2
 Ora dobbiamo scrivere del codice che al caricamento della pagina sposti la slide attiva da quella corrente alla successiva.
-Scrivete poi il codice che all'avvio della pagina in automatico sposti la slide attiva dalla prima alla seconda.
 
 MILESTONE 3
 Al click dell'utente sulle frecce, il programma cambierà l’immagine attiva, che quindi verrà visualizzata al posto della precedente. 
